@@ -310,9 +310,6 @@ li a {
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
 }
 
 .row.row-no-gutters > [class^="col-"],
@@ -320,15 +317,6 @@ li a {
     padding-right: 0;
     padding-left: 0;
 }
-
-
-.text-center .fa-brand{
-    width: 60px;
-    height: 60px;
-    background-color: black;
-}
-
-
 
 
 #bloc-1-hero h1 {
