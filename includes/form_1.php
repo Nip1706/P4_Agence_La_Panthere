@@ -3,7 +3,6 @@
 	{
 		return false;
 	}
-	
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$input_504 = $_POST['input_504'];
